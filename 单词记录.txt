@@ -1,0 +1,68 @@
+initial
+echo
+dashboard
+repository
+feedback
+bug
+issue
+Credential
+general
+license
+feat: add user login function
+Copilot
+To confirm, type "fangcs2021/fangcs2021" in the box below
+initialized
+.gitignore，不需要上传至github中的文档，前面加的.意思隐藏的文档
+Integrations
+insertion
+remote add origin
+push
+staged
+outline
+timeline
+output
+reveal
+ligature
+feature
+property
+account
+forward
+port
+terminal
+script
+JavaScript
+TypeScript
+command palette
+theme
+toggle
+inaccurate
+accurate
+proportional
+category
+linter
+warp 
+snippet
+launch
+customize 
+browser
+server
+path
+dedicate
+configure
+detecting kernels
+model context protocol
+function calling
+client server
+prompt
+split
+init
+Reinitialized existing Git repository
+commit
+config
+fetch
+diff
+pull
+bash
+echo
+touch
+authorize
