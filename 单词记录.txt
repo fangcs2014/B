@@ -66,3 +66,13 @@ bash
 echo
 touch
 authorize
+feature
+gallery
+The conference will be held at the Department of Geography, Central University of Tamil Nadu (CUTN).
+merge
+git remote -v//查看本地仓库和远程仓库的联系
+origin https：//github/***
+git push//会出现提示邮箱和账号，但是会出错。原因是2021年后就不在支持这种操作方式
+现在本地仓库和远程仓库的联系方式是使用 token 方式
+
+vscode自带git功能
